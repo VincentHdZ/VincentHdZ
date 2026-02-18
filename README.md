@@ -17,9 +17,21 @@ Flutter Developer who loves turning ideas into apps.
 
 Here are some concrete projects I worked on, delivered and used by real users:
 
-1. [**Qileo**](https://apps.apple.com/fr/app/qileo-compte-pro-%C3%A9thique/id6472705781)  
-2. [**re:mind**](https://apps.apple.com/fr/app/remind-communication-scolaire/id522826277)  
-3. [**b:bot**](https://apps.apple.com/fr/app/b-bot/id6476862300)  
-4. [**Feel**](https://apps.apple.com/fr/app/feel-th%C3%A9rapie-anti-d%C3%A9pression/id6444725595)  
-5. [**Hello reno, l’avatar Renault**](https://apps.apple.com/fr/app/hello-reno-lavatar-renault/id1630730440)
+## ⭐ Notable Projects
+
+1. 🏦 [**Qileo**](https://apps.apple.com/fr/app/qileo-compte-pro-%C3%A9thique/id6472705781)  
+   A fintech app for freelancers and small businesses to manage finances, invoices, environmental impact, and more — built with Flutter (Provider & BLoC, Dio, WebView, Camera handling, Push Notifications, Digital code).
+
+2. ♻️ [**re:mind**](https://apps.apple.com/fr/app/re-mind-r%C3%A9parer-ou-revendre/id1627039255)  
+   A smart object management app that lets users add items via photo or configuration, estimate resale value in real time, get interactive guidance, and resell items easily. :contentReference[oaicite:1]{index=1} - built with Flutter (Nylos)
+
+3. 🤖 [**b:bot**](https://apps.apple.com/fr/app/b-bot/id6476862300)  
+   An interactive assistant app providing guidance, helpful responses, and conversational support to users. - built with Flutter (Providers, Dio, Realtime Geolocation)
+
+4. 👨‍⚕️ [**Feel**](https://apps.apple.com/fr/app/feel-th%C3%A9rapie-anti-d%C3%A9pression/id6444725595)  
+   A mental well-being app supporting users in tracking mood, managing thoughts, and promoting emotional health. build with React Native (Typescript, React Query, Chatbots, Push Notifications)
+
+5. 🚗 [**Hello reno, l’avatar Renault**](https://apps.apple.com/fr/app/hello-reno-lavatar-renault/id1630730440)  
+   A branded avatar experience for Renault, offering personalization, interactive features, and immersive content. build with React Native (Typescript, React Query, ChatGPT, Push Notifications)
+
 
