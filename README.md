@@ -17,8 +17,6 @@ Flutter Developer who loves turning ideas into apps.
 
 Here are some concrete projects I worked on, delivered and used by real users:
 
-## ⭐ Notable Projects
-
 1. 🏦 [**Qileo**](https://apps.apple.com/fr/app/qileo-compte-pro-%C3%A9thique/id6472705781)  
    A fintech app for freelancers and small businesses to manage finances, invoices, environmental impact, and more — built with Flutter (Provider & BLoC, Dio, WebView, Camera handling, Push Notifications, Digital code).
 
