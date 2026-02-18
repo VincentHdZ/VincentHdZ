@@ -10,6 +10,8 @@ Flutter Developer who loves turning ideas into apps.
 
 - Flutter / Dart
 - Provider / RiverPod / BLoc
+- React Native / Typescript
+- Redux / React Query
 - REST APIs
 - CI/CD
 
